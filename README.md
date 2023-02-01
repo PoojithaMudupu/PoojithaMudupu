@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hey! 👋
+- This is Poojitha_Mudupu.
+- I am from Telangana,India.
+- 🔭 I’m currently pursuing masters in Northwest Missouri state University in United States.
+- 🌱 I’m currently learning Java,Advance database,Webapps.
+- 🤔 I’m looking for help with Advance database.
+- 💬 Ask me about any movie suggestions.
+- 📫 How to reach me: gmail(poojithamudupu@gmail.com)
+- 😄 Pronouns: Ammulu.
+- ⚡ Fun fact: I am very lazy.
+- I am very much interested in Movie Making and in art.
 
-<!--
-**PoojithaMudupu/PoojithaMudupu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

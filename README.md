@@ -7,6 +7,6 @@
 - 💬 Ask me about any movie suggestions.
 - 📫 How to reach me: gmail(poojithamudupu@gmail.com)
 - 😄 Pronouns: Ammulu.
-- ⚡ Fun fact: I am very lazy.
+- ⚡ Fun fact: I am very lazy but I don't think so.
 - I am very much interested in Movie Making and in art.
 
